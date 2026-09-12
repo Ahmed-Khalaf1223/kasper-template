@@ -9,7 +9,7 @@ This project is a front-end implementation of the Kasper template, focusing on c
 ## 🌐 Live Demo
 
 🔗 **Live Demo:**
-[Coming soon...](https://ahmed-khalaf1223.github.io/kasper-template/)
+(https://ahmed-khalaf1223.github.io/kasper-template/)
 
 ---
 
